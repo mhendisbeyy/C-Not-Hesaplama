@@ -1,0 +1,13 @@
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\bin\Debug\NotGiris.exe.config
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\bin\Debug\NotGiris.exe
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\bin\Debug\NotGiris.pdb
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.Form1.resources
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.FrmOgrenciDetay.resources
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.FrmOgrenciGiris.resources
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.FrmOgretmenGris.resources
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.exe
+C:\Users\Ali\Desktop\C# Projeler\NotGiris\NotGiris\obj\Debug\NotGiris.pdb
